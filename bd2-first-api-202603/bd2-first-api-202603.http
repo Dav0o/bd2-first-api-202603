@@ -1,0 +1,6 @@
+@bd2_first_api_202603_HostAddress = http://localhost:5250
+
+GET {{bd2_first_api_202603_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
